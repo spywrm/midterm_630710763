@@ -11,7 +11,7 @@ class A extends StatefulWidget {
 
 class _AState extends State<A> {
   final controller = TextEditingController();
-  var temp = 0.0;
+  double temp = 0.0;
   var str= "Please enter a value to convert.";
   var m = Math();
   void CtoF(){
