@@ -107,7 +107,7 @@ class _AState extends State<A> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("MIDTERM 630710763")),
+      appBar: AppBar(title: Text(" MIDTERM 630710763",)),
       body: Center(
         child: Column(
          // mainAxisAlignment: MainAxisAlignment.center,
